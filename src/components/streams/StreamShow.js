@@ -15,6 +15,7 @@ class StreamShow extends React.Component {
       <div>
         <h1>{title}</h1>
         <h5>{discription}</h5>
+        <h6>Helo there</h6>
       </div>
     );
   }
